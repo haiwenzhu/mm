@@ -1,0 +1,3 @@
+This is a simple memory allocator
+
+It have four function,mm_init,mm_malloc,mm_free,mm_exit
